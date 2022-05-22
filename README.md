@@ -1,10 +1,6 @@
 Hi, 
 I am Nikhil chaturvedi and i do content on Design and Development.I really enjoy learning languages and frameworks like React and Angular.js,as well as work in wordpress.I also enjoy ui,ux, and desing in general.You can check out my twitter at https://twitter.com/Niks_beast.
 
-[img align="right" alt="Coding" width="400" src="https://github.com/Nikhil0616/Nikhil0616/blob/master/portfolio_banner2.mp4"]
-
-Frontend Developer 💻 | UI/UX Design Enthusiast 💫 | Learner ✨
-
 <h1 align="center">Hi 👋, I'm Nikhil Chaturvedi</h1>
 <h3 align="center">Frontend Developer 💻 | UI/UX Design Enthusiast 💫 | Learner ✨</h3>
 
