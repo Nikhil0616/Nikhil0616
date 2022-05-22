@@ -3,7 +3,6 @@ I am Nikhil chaturvedi and i do content on Design and Development.I really enjoy
 
 Frontend Developer 💻 | UI/UX Design Enthusiast 💫 | Learner ✨
 
-PORTFOLIO_BANNER.png
 
 
 - 🔭 I’m currently working on ...
