@@ -1,9 +1,8 @@
-### Hi there 👋
+Hi, I am Nikhil chaturvedi 
 
-<!--
-**Nikhil0616/Nikhil0616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer 💻 | UI/UX Design Enthusiast 💫 | Learner ✨
 
-Here are some ideas to get you started:
+                Trying to connect dots!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
