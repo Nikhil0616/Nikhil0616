@@ -8,7 +8,6 @@ I am Nikhil chaturvedi and i do content on Design and Development.I really enjoy
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil0616&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil0616" /> </p>
 
-<p align="left"> <a href="https://twitter.com/niks_beast" target="blank"><img src="https://img.shields.io/twitter/follow/niks_beast?logo=twitter&style=for-the-badge" alt="niks_beast" /></a> </p>
 
 - 🌱 I’m currently learning **Reacts,Nodejs,Angular,&python or java**
 
@@ -18,7 +17,7 @@ I am Nikhil chaturvedi and i do content on Design and Development.I really enjoy
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/niks_beast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niks_beast" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/linkedin.com/in/nikhil-chaturvedi-18b631231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nikhil-chaturvedi-18b631231" height="30" width="40" /></a>
 <a href="https://fb.com/nikhilchaturvedi00@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nikhilchaturvedi00@gmail.com" height="30" width="40" /></a>
 <a href="https://instagram.com/nikhil_official0616" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil_official0616" height="30" width="40" /></a>
